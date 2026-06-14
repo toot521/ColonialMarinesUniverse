@@ -2536,9 +2536,16 @@
   url: https://github.com/toot521/ColonialMarinesUniverse/pull/1
 - author: toot521
   changes:
-  - message: CLF Survs can now actually only spawn on distress signal
+  - message: CLF Survs can now only spawn on Distress signal
     type: Fix
   id: 218
+  time: '2026-06-07T09:18:53.0000000+00:00'
+  url: https://github.com/toot521/ColonialMarinesUniverse/pull/1
+- author: toot521
+  changes:
+  - message: CLF Survs can now actually only spawn on distress signal
+    type: Fix
+  id: 219
   time: '2026-06-07T09:21:53.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1243
 - author: TheHellFireo
@@ -2615,7 +2622,7 @@
   - message: Queen eye now stays leashed near weeds, can expand weeds while the queen
       is in ovipositor mode, and ovipositor cost is reduced from 700 to 500 plasma.
     type: Fix
-  id: 219
+  id: 220
   time: '2026-06-07T16:13:58.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1246
 - author: JaSeNeSaJ
@@ -2626,7 +2633,7 @@
     type: Remove
   - message: Cleaned formatting on gamemodes.yml
     type: Tweak
-  id: 220
+  id: 221
   time: '2026-06-07T21:19:19.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/991
 - author: maertayn
@@ -2639,7 +2646,7 @@
   - message: Opfor/Govfor have faction colored TacMap icons per role (gets rid of
       the synth/smiley icons!)
     type: Add
-  id: 221
+  id: 222
   time: '2026-06-08T00:38:32.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1250
 - author: potatoed6
@@ -2650,14 +2657,14 @@
     type: Tweak
   - message: CO icon is a bit cooler now
     type: Tweak
-  id: 222
+  id: 223
   time: '2026-06-08T00:39:15.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1216
 - author: Kadeo64
   changes:
   - message: Removed chances and sorokyne from insurgency map rotation.
     type: Remove
-  id: 223
+  id: 224
   time: '2026-06-08T00:41:46.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1253
 - author: troytroy400
@@ -2669,7 +2676,7 @@
   - message: Sheperds Pride and Stable Garrison temporarily removed from Distress
       Signal.
     type: Tweak
-  id: 224
+  id: 225
   time: '2026-06-08T06:52:34.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1257
 - author: 400Ferrets
@@ -2677,14 +2684,14 @@
   - message: Port Neroid grass is now semi-weedable, instead of unweedable. (Clusters,
       Gardener weeds only)
     type: Fix
-  id: 225
+  id: 226
   time: '2026-06-08T11:37:08.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1261
 - author: deepdarkdepths
   changes:
   - message: Added the Despoiler, a new Tier 3 xeno.
     type: Add
-  id: 226
+  id: 227
   time: '2026-06-08T12:16:45.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1256
 - author: TheHellFireo
@@ -2703,21 +2710,21 @@
     type: Add
   - message: Restored timestamps in the new admin logs panel.
     type: Fix
-  id: 227
+  id: 228
   time: '2026-06-08T12:29:49.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1262
 - author: NzzyFk
   changes:
   - message: Some new basic tiles
     type: Add
-  id: 228
+  id: 229
   time: '2026-06-08T16:41:49.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1258
 - author: maertayn
   changes:
   - message: Fluent localization example for Xeno Despoiler (use ent- and .desc)
     type: Code
-  id: 229
+  id: 230
   time: '2026-06-08T17:51:09.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1263
 - author: potatoed6
@@ -2734,7 +2741,7 @@
   - message: Added chevrons components and system, rankchanger system, tweaked jobprototype,
       sharedranksystem, jobtitlechangersystem.
     type: Code
-  id: 230
+  id: 231
   time: '2026-06-08T18:24:27.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1228
 - author: TheHellFireo
@@ -2859,7 +2866,7 @@
     type: Fix
   - message: Despoiler Acid Barrage no longer damages same-hive friendly xenos.
     type: Fix
-  id: 231
+  id: 232
   time: '2026-06-08T20:40:16.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1266
 - author: 400Ferrets
@@ -2867,14 +2874,14 @@
   - message: Dropship sentries are in govfor ASRS for $600 instead of the dropship
       fabricator.
     type: Tweak
-  id: 232
+  id: 233
   time: '2026-06-09T02:35:00.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1260
 - author: 400Ferrets
   changes:
   - message: Second floor of the USS Bush is now weedable.
     type: Fix
-  id: 233
+  id: 234
   time: '2026-06-09T02:36:11.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1259
 - author: troytroy400
@@ -2885,7 +2892,7 @@
     type: Add
   - message: USS George W. Bush AI stairwell fixed.
     type: Fix
-  id: 234
+  id: 235
   time: '2026-06-09T12:24:35.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1269
 - author: TheHellFireo
@@ -2919,28 +2926,28 @@
       stabilization, spotter-linked view support, heavy bullet penetration, impact
       audio, and enhanced bullet fly-by sound.'
     type: Add
-  id: 235
+  id: 236
   time: '2026-06-09T15:31:37.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1270
 - author: KeiKiyomi
   changes:
   - message: Fixed Prodigy synth raffle
     type: Fix
-  id: 236
+  id: 237
   time: '2026-06-09T16:59:31.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1272
 - author: Piticzu
   changes:
   - message: Fixed Wendigo headbite screech not playing globally for all players.
     type: Fix
-  id: 237
+  id: 238
   time: '2026-06-09T23:50:37.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1274
 - author: jok989372-lgtm
   changes:
   - message: Fixed stamps
     type: Fix
-  id: 238
+  id: 239
   time: '2026-06-09T23:51:07.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1273
 - author: maertayn
@@ -2961,14 +2968,14 @@
     type: Add
   - message: govfor headsets removed from govfor/opfor vendors
     type: Remove
-  id: 239
+  id: 240
   time: '2026-06-10T05:15:29.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1276
 - author: 400Ferrets
   changes:
   - message: flamethrowers NERFED VICIOUSLY!!
     type: Tweak
-  id: 240
+  id: 241
   time: '2026-06-10T07:40:13.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1281
 - author: 400Ferrets
@@ -2985,7 +2992,7 @@
     type: Add
   - message: Port Neroid is now darker.
     type: Add
-  id: 241
+  id: 242
   time: '2026-06-10T07:43:29.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1279
 - author: Squagg
@@ -2994,21 +3001,21 @@
     type: Fix
   - message: Fixed a client crash when placing wall APCs from the construction menu.
     type: Fix
-  id: 242
+  id: 243
   time: '2026-06-10T16:32:34.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1283
 - author: johnnny34y
   changes:
   - message: Colony Working Joes no longer require engineer or janitor playtime.
     type: Remove
-  id: 243
+  id: 244
   time: '2026-06-10T16:40:02.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1277
 - author: johnnny34y
   changes:
   - message: GOVFOR Working Joes no longer have CT and janitor playtime requirements.
     type: Remove
-  id: 244
+  id: 245
   time: '2026-06-10T16:40:16.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1278
 - author: maertayn
@@ -3016,14 +3023,14 @@
   - message: 'Added faction and IFF to VAI: comms tower can be tuned - VAI ambassador
       also govfor+opfor factions'
     type: Add
-  id: 245
+  id: 246
   time: '2026-06-10T23:52:50.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1287
 - author: maertayn
   changes:
   - message: Five straitjackets are temporarily available to MPs from their vendor
     type: Add
-  id: 246
+  id: 247
   time: '2026-06-11T01:36:49.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1288
 - author: Evergreendev12
@@ -3036,28 +3043,28 @@
     type: Add
   - message: New Factory job loop
     type: Add
-  id: 247
+  id: 248
   time: '2026-06-11T12:02:06.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1289
 - author: troytroy400
   changes:
   - message: CMU logo replaced with pride version for pride month.
     type: Tweak
-  id: 248
+  id: 249
   time: '2026-06-11T17:10:13.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1293
 - author: troytroy400
   changes:
   - message: The USS George W. Bush now has solid fuel so the OB can be used.
     type: Add
-  id: 249
+  id: 250
   time: '2026-06-11T17:38:05.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1294
 - author: UnicornOnLSD
   changes:
   - message: Monocular and it's advanced counterpart have proper inhands.
     type: Add
-  id: 250
+  id: 251
   time: '2026-06-11T20:08:57.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1292
 - author: troytroy400
@@ -3067,7 +3074,7 @@
   - message: Changed content of various special weapons kits to contain more ammunition
       and a variety of other special items.
     type: Tweak
-  id: 251
+  id: 252
   time: '2026-06-11T20:14:01.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1295
 - author: troytroy400
@@ -3076,14 +3083,14 @@
     type: Fix
   - message: Weapon Specialists now have access to govfor doors.
     type: Fix
-  id: 252
+  id: 253
   time: '2026-06-11T21:14:45.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1296
 - author: UnicornOnLSD
   changes:
   - message: '? and ! no longer emote into "looks surprised" or "looks confused"'
     type: Remove
-  id: 253
+  id: 254
   time: '2026-06-11T23:58:36.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1291
 - author: maertayn
@@ -3100,7 +3107,7 @@
     type: Fix
   - message: Loreprimer not updating throughout rounds - showing xeno for aboms etc.
     type: Fix
-  id: 254
+  id: 255
   time: '2026-06-12T01:53:54.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1297
 - author: maertayn
@@ -3108,7 +3115,7 @@
   - message: Cultists can no longer move dead mobs unless they are either cultist
       or xeno
     type: Add
-  id: 255
+  id: 256
   time: '2026-06-12T02:59:05.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1298
 - author: maertayn
@@ -3120,7 +3127,7 @@
   - message: Lights/airlocks no longer randomly break (part of colony engineering
       loop) on Distress Signal
     type: Fix
-  id: 256
+  id: 257
   time: '2026-06-12T04:23:44.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1299
 - author: troytroy400
@@ -3137,14 +3144,14 @@
   - message: The scout cloak now no longer requires scout armor to be used but is
       also SLIGHTLY (0.5) more visible.
     type: Fix
-  id: 257
+  id: 258
   time: '2026-06-12T11:19:00.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1300
 - author: basementoWasntAvailable
   changes:
   - message: '? and !  emote into "looks surprised" or "looks confused" again'
     type: Add
-  id: 258
+  id: 259
   time: '2026-06-12T17:18:21.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1301
 - author: troytroy400
@@ -3154,7 +3161,7 @@
   - message: Removed badblood and tribals threat from rotation until they can be built
       out more.
     type: Remove
-  id: 259
+  id: 260
   time: '2026-06-12T18:45:58.0000000+00:00'
   url: https://github.com/AU-14/ColonialMarinesUniverse/pull/1302
 Name: CMU
