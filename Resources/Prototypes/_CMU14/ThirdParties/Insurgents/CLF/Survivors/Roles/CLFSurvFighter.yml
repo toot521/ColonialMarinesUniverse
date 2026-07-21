@@ -1,5 +1,5 @@
 - type: job
-  parent: CMJobBase
+  parent: AU14JobCLFGuerilla
   id: AU14JobCLFSurvFighter
   roundSide: ThirdParty
   roundForce: CLF

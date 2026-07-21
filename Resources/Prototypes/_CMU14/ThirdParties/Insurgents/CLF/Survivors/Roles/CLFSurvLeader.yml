@@ -1,5 +1,5 @@
 - type: job
-  parent: CMJobBase
+  parent: AU14JobCLFCellLeader
   id: AU14JobCLFSurvLeader
   roundSide: ThirdParty
   roundForce: CLF
@@ -41,6 +41,7 @@
       state: synth
   - type: FactionLanguageLeader
     factionTag: CLF
+  - type: InsurgencyPendingFactionSelection
 
   name: au14-job-name-
   description: au14-clfsurv-greeting

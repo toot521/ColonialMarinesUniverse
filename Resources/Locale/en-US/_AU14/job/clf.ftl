@@ -38,10 +38,10 @@ AU14JobCLFCellLeader = CLF Cell Leader
 au14-clfsurv-greeting = Your cell has had no choice but to expose itself after the horrors of the last few days.
 
     Out of supplies and low on manpower, this is your final stand.
-    Fight or die for the CLF.
+    Fight or die for your cause.
 
-    You are HOSTILE to the LOCAL government and not subject to any other besides the CLF.
+    You are HOSTILE to the LOCAL government and not subject to any other besides your Cell Leader.
 
-au14-clfsurv-desription = You are a fighter for the Colonial Liberation Front. But right now you are fighting for your survival.
+au14-clfsurv-desription = You are a fighter for a local insurgent group. But right now you are fighting for your survival.
 
-au14-clfsurv-rules = You are HOSTILE to the LOCAL government and not subject to any other besides the CLF. You are fully aware of the local threat after having witnessed it for several days.
+au14-clfsurv-rules = You are HOSTILE to the LOCAL government and not subject to any other besides your Cell Leader. You are fully aware of the local threat after having witnessed it for several days.
