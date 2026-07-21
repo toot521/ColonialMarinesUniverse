@@ -134,7 +134,6 @@
     suitstorage: RMCFlashlight
   inhand:
   - AU14CLFHeadset
-  - AU14FlagCarriableCLF
   - RMCFlashlight
 - type: playTimeTracker
   id: AU14CLFSurvivorLead
